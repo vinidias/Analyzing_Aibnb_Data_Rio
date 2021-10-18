@@ -74,7 +74,7 @@ As our analysis shows, the most popular room type in Rio is the entire home or a
 
 We can also check the average of minimum nights required for booking in Rio. To do this we can use the `.mean()` method. 
 
-![image](https://user-images.githubusercontent.com/8090224/137784482-ec966612-794e-4ac1-91fe-156d6b5b3163.png)
+![image](https://user-images.githubusercontent.com/8090224/137787621-686d1145-b19e-4dcd-8b0b-d4af1dec5ad5.png)
 
 The average minimum number of nights in a property in Rio is equivalent to approximately 4, Which indicates that people usually stay in a property in Rio in half a week, which can be the first days or a weekend.
 
