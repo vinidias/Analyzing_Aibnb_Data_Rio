@@ -66,7 +66,8 @@ now that we have a clean DataFrame, we can check our average booking price. To d
 
 The column `room_type` contains all the kinds of places you can rent in Airbnb, there are quite a few options available. By using the method `value.counts()` we can check which is the most popular type of Airbnb property renting in Rio.
 
-![image](https://user-images.githubusercontent.com/8090224/137783615-bf09f1c0-79b9-4ee8-9b35-59da39aa5709.png)
+![image](https://user-images.githubusercontent.com/8090224/137788640-8e1f4981-86a2-4d86-a431-a25bb164c71c.png)
+
 
 As our analysis shows, the most popular room type in Rio is the entire home or apartment. Thus if you live in Rio and want to rent your place, you should probably invest in whole-home/apartment rentals or maybe private rooms.
 
